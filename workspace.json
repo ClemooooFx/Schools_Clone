@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "backend-auth": "libs/backend/auth",
+    "backend-blog": "libs/backend/blog",
+    "backend-core": "libs/backend/core",
+    "backend-decorators": "libs/backend/decorators",
+    "backend-dtos": "libs/backend/dtos",
+    "backend-e-commerce": "libs/backend/e-commerce",
+    "backend-entities": "libs/backend/entities",
+    "backend-enums": "libs/backend/enums",
+    "backend-payments": "libs/backend/payments",
+    "backend-rating": "libs/backend/rating",
+    "backend-shared": "libs/backend/shared",
+    "backend-upload": "libs/backend/upload",
+    "backend-users": "libs/backend/users",
+    "goshule": "apps/goshule"
+  }
+}
